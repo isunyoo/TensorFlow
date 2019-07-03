@@ -20,7 +20,7 @@ $ docker rmi <old_name> #Remove the old tag
 
 $ docker login
  Username: isunyoo
- Password: i~~
+ Password: ~~~
 
 [docker push new-repo:tagname]
 $ docker push isunyoo/tensorflow:nightly-py3-jupyter-v1.0
